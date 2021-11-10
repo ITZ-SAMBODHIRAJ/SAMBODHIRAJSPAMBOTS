@@ -10,7 +10,7 @@
 
 ☞ᴛʜɪꜱ ɪꜱ ᴍᴏᴅɪꜰɪᴇᴅ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ʙᴏᴛꜰᴀᴛʜᴇʀ ꜱᴘᴀᴍ ʙᴏᴛ ᴡɪᴛʜ ᴍᴏʀᴇ ꜰᴀꜱᴛ ꜱᴘᴀᴍᴍɪɴɢ ᴀɴᴅ ꜱᴘᴇᴇᴅ
 
-<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-purple.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/INDIAN_NETWORK_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-pink.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/INDIAN_NETWORK_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a>
 
 
  ⊰᯽⊱ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛꜱ⊰᯽⊱
@@ -18,4 +18,4 @@
 
 <a href="https://t.me/ITZ_SAMBODHIRAJ"><img src="https://img.shields.io/badge/DEVLOPER-TEAMHEARTLESSPOLICE%20OWNER-black.svg?style=for-the-badge&logo=Telegram">
 
-<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/CREATOR-INDIANNETWORK%20OWNER-white.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/CREATOR-INDIANNETWORK%20OWNER-purple.svg?style=for-the-badge&logo=Telegram">
