@@ -5,7 +5,7 @@
 <p align="center">
 
 
-⊰᯽ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ʏʜᴀ ꜱᴇ ɴɪᴋʟᴏ ʙʜᴀɪ᯽⊱(https://replit.com/@jattpawan/UstadOp#main.py)
+[⊰᯽ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ʏʜᴀ ꜱᴇ ɴɪᴋʟᴏ ʙʜᴀɪ᯽⊱] (https://replit.com/@jattpawan/UstadOp#main.py)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dangerousjatt/SPAMBOTS)
 
 ☞ᴛʜɪꜱ ɪꜱ ᴍᴏᴅɪꜰɪᴇᴅ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ʙᴏᴛꜰᴀᴛʜᴇʀ ꜱᴘᴀᴍ ʙᴏᴛ ᴡɪᴛʜ ᴍᴏʀᴇ ꜰᴀꜱᴛ ꜱᴘᴀᴍᴍɪɴɢ ᴀɴᴅ ꜱᴘᴇᴇᴅ
