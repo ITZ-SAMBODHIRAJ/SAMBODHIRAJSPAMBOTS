@@ -1,11 +1,11 @@
 ♕𝐒𝐀𝐌𝐁𝐎𝐃𝐇𝐈𝐑𝐀𝐉♕ SPAMBOTS
 
 
-<p align="center"><a href="https://t.me/ITZ_SAMBODHIRAJ"><img src="https://telegra.ph/file/b598bb5577e268aa5b6ad.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/ITZ_SAMBODHIRAJ"><img src="https://telegra.ph/file/f075eb8ea0dbae6846a1c.jpg" width="500"></a></p>
 <p align="center">
 
 
-[Gernate bot session from here](https://replit.com/@jattpawan/UstadOp#main.py)
+⊰᯽ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ʏʜᴀ ꜱᴇ ɴɪᴋʟᴏ ʙʜᴀɪ᯽⊱(https://replit.com/@jattpawan/UstadOp#main.py)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dangerousjatt/SPAMBOTS)
 
 ☞ᴛʜɪꜱ ɪꜱ ᴍᴏᴅɪꜰɪᴇᴅ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ʙᴏᴛꜰᴀᴛʜᴇʀ ꜱᴘᴀᴍ ʙᴏᴛ ᴡɪᴛʜ ᴍᴏʀᴇ ꜰᴀꜱᴛ ꜱᴘᴀᴍᴍɪɴɢ ᴀɴᴅ ꜱᴘᴇᴇᴅ
