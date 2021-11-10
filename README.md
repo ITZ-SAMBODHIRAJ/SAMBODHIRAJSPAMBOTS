@@ -1,6 +1,8 @@
 #SAMBODHIRAJ-SPAMBOTS
 
 
+<p align="center"><a href="https://t.me/ITZ_SAMBODHIRAJ"><img src="https://telegra.ph/file/b598bb5577e268aa5b6ad.jpg" width="300"></a></p>
+<p align="center">
 
 
 [Gernate bot session from here](https://replit.com/@jattpawan/UstadOp#main.py)
